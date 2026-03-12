@@ -1,6 +1,3 @@
-# marketing-analytics-dashboard
-Marketing Analytics Dashboard developed in Power BI to analyze campaign performance, conversions and advertising ROI.
-
 # Marketing Analytics Dashboard
 
 Este projeto apresenta um dashboard de Marketing Analytics desenvolvido em Power BI para análise de desempenho de campanhas digitais.

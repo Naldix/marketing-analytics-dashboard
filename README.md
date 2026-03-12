@@ -27,6 +27,8 @@ Analisar a performance de campanhas de marketing digital e avaliar a eficiência
 - DAX
 - Figma
 
+## Análises Realizadas
+
 ### Visão Geral de Performance
 
 A análise geral dos indicadores mostra que as campanhas geraram um volume significativo de tráfego e conversões. Foram registradas mais de **15 milhões de impressões**, resultando em aproximadamente **637 mil cliques** e **28 mil conversões**.

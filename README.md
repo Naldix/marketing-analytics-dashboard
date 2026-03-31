@@ -68,7 +68,7 @@ Os gráficos temporais permitem acompanhar a evolução de métricas como clique
 
 ## Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiMGE0ZDRkZWItNGZkYy00YWFlLWEzYTctYzIxMGRmYjA5MDFlIiwidCI6ImUxYjVkNjBhLWFmYjctNDRiMi1hYTUzLTY1NGEzYzYxNjAzMiJ9
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMGE0ZDRkZWItNGZkYy00YWFlLWEzYTctYzIxMGRmYjA5MDFlIiwidCI6ImUxYjVkNjBhLWFmYjctNDRiMi1hYTUzLTY1NGEzYzYxNjAzMiJ9)
 
 ## Página Principal
 
